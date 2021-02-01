@@ -33,3 +33,4 @@ title: Links
 * [Contact with Blood or Body Fluids: Protecting against Infection - HealthLinkBC File 97 1](https://www.healthlinkbc.ca/healthlinkbc-files/fluids-protecting-against-infection)
 * [Particle modeling of the spreading of coronavirus disease (COVID-19): Physics of Fluids: Vol 32, No 8](https://aip.scitation.org/doi/10.1063/5.0020565)
 * [WIN32K POWER WATCHDOG TIMEOUT Error - Microsoft Community](https://answers.microsoft.com/en-us/windows/forum/all/win32k-power-watchdog-timeout-error/60648349-0b26-442b-a167-ec9eb39b2d57)
+* [Market Analyzer Source Code (Urinal Price Comparison Written by James Grams)](https://github.com/smart-step/market-analyzer)
