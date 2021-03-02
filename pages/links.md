@@ -2,6 +2,7 @@
 layout: page
 title: Links
 ---
+* [Public Site](https://smart-step.github.io/public-site/)
 * [How Air Quality Technologies Can Help Keep Shoppers Safer - Chain Store Age](https://chainstoreage.com/how-air-quality-technologies-can-help-keep-shoppers-safer)
 * [2019 US WaterSense Market Penetration](https://www.safeplumbing.org/files/safeplumbing.org/documents/misc/7-1-19-WaterSense-2019-Report.pdf)
 * [How Distributor Markup Prices are Determined in the Supply Chain - PROS](https://resources.pros.com/blog/distributor-pricing-profit-margins-pricing-markups#:~:text=Distributor%20markup%20is%20generally%2020,profit%20while%20also%20staying%20competitive.)
