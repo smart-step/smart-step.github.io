@@ -35,3 +35,4 @@ title: Links
 * [Particle modeling of the spreading of coronavirus disease (COVID-19): Physics of Fluids: Vol 32, No 8](https://aip.scitation.org/doi/10.1063/5.0020565)
 * [WIN32K POWER WATCHDOG TIMEOUT Error - Microsoft Community](https://answers.microsoft.com/en-us/windows/forum/all/win32k-power-watchdog-timeout-error/60648349-0b26-442b-a167-ec9eb39b2d57)
 * [Market Analyzer Source Code (Urinal Price Comparison Written by James Grams)](https://github.com/smart-step/market-analyzer)
+* [People Less Likely to Use Restrooms during COVID](https://blog.zurn.com/hands-on-restrooms-turn-customers-off-to-businesses?utm_campaign=Industry%20News&utm_content=158921104&utm_medium=social&utm_source=twitter&hss_channel=tw-3110437344)
