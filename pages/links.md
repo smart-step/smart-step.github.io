@@ -15,7 +15,6 @@ title: Links
 * [Could 'toilet plumes' spread the new coronavirus?](https://www.advisory.com/en/daily-briefing/2020/06/24/toilet-plumes#:~:text=Flushing%20the%20toilet%20with%20the,study%20recently%20published%20in%20the)
 * [How public restrooms will change post COVID-19 crises - Design Middle East](https://design-middleeast.com/how-public-restrooms-will-change-post-covid-19-crises/)
 * [Aiming To Reduce Cleaning Costs by Blake Evans-Pritchard (Works That Work magazine)](https://worksthatwork.com/1/urinal-fly)
-* [Aiming To Reduce Cleaning Costs by Blake Evans-Pritchard (Works That Work magazine)](https://worksthatwork.com/1/urinal-fly)
 * [Potty protector invented by parents tired of cleaning up “that extra fine mist spray” - wqad.com](https://www.wqad.com/article/news/local/drone/8-in-the-air/potty-protector-invented-by-parents-tired-of-cleaning-up-that-extra-fine-mist-spray/526-234724c0-a82b-4bcf-a976-95b9a498324f)
 * [New, slippery toilet coating provides cleaner flushing, saves water - EurekAlert! Science News](https://www.eurekalert.org/pub_releases/2019-11/ps-nst111419.php)
 * [Dutch toilet startup built a smart urinal that serves ads while you pee](https://thenextweb.com/shareables/2017/12/07/smart-urinal-ads-toilet/#:~:text=Forward%2Dthinking%20Dutch%20toilet%20startup,you're%20emptying%20your%20tank.)
