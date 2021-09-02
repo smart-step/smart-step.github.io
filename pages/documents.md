@@ -2,6 +2,10 @@
 layout: page
 title: Documents
 ---
+* [Kohler Bardon Specs](/assets/pdfs/kohler-bardon.pdf)
+* [Kohler Dexter Specs](/assets/pdfs/kohler-dexter.pdf)
+* [American Standard Allbrook Specs](/assets/pdfs/as-allbrook.pdf)
+* [American Standard Washbrook Specs](/assets/pdfs/as-washbrook.pdf)
 * [Informal Patent Drawings](/assets/pdfs/informal-drawings.pdf)
 * [Provisional Patent Claims](/assets/word/provisional-patent-claims.docx)
 * [Enventys Production Deck](/assets/pdfs/production-deck.pdf)
