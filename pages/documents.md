@@ -2,6 +2,7 @@
 layout: page
 title: Documents
 ---
+* [Urinal Different Colors](/assets/images/colors)
 * [Kohler Bardon Specs](/assets/pdfs/kohler-bardon.pdf)
 * [Kohler Dexter Specs](/assets/pdfs/kohler-dexter.pdf)
 * [American Standard Allbrook Specs](/assets/pdfs/as-allbrook.pdf)
