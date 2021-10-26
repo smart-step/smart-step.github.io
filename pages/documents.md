@@ -2,13 +2,14 @@
 layout: page
 title: Documents
 ---
+* [Dirty Urinal](/assets/images/dirty.jpg)
 * Urinal Different Colors
-    * [Black](/assets/images/black.jpg)
-    * [Blue 1](/assets/images/blue1.jpg)
-    * [Blue 2](/assets/images/blue2.jpg)
-    * [Green](/assets/images/green.jpg)
-    * [Orange](/assets/images/orange.jpg)
-    * [Tan](/assets/images/tan.jpg)
+    * [Black](/assets/images/colors/black.jpg)
+    * [Blue 1](/assets/images/colors/blue1.jpg)
+    * [Blue 2](/assets/images/colors/blue2.jpg)
+    * [Green](/assets/images/colors/green.jpg)
+    * [Orange](/assets/images/colors/orange.jpg)
+    * [Tan](/assets/images/colors/tan.jpg)
 * [Kohler Bardon Specs](/assets/pdfs/kohler-bardon.pdf)
 * [Kohler Dexter Specs](/assets/pdfs/kohler-dexter.pdf)
 * [American Standard Allbrook Specs](/assets/pdfs/as-allbrook.pdf)
