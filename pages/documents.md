@@ -23,4 +23,8 @@ title: Documents
 * [Smart-Wiz Price Comparison](/assets/spreadsheets/Smart-Wiz Comparison.xlsx)
 * [TJ Root Initial Test Findings - 2/25/21](/assets/word/tj-root-2-25-2021.docx)
 * [Branding Guidelines](/assets/images/branding.jpg)
+* [Anti-Splash Patent Application](/assets/word/patent-application-anti-splash.doc)
+* [Anti-Splash Formal Drawings](/assets/pdfs/formal-drawings-anti-splash.pdf)
+* [Urinal Patent Application](/assets/word/patent-application-urinal.doc)
+* [Urinal Formal Drawings](/assets/pdfs/formal-drawings-urinal.pdf)
 * [Slides](https://paviliondevelopment-my.sharepoint.com/:p:/g/personal/jrg_pavdevco_com/Efq69RESwlhKhYQ6hNaQA3cBmLy1nyz1E1A4SUTfmXR_wQ?e=c32FEj)
