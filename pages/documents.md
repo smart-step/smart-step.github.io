@@ -2,6 +2,8 @@
 layout: page
 title: Documents
 ---
+* [Video](https://paviliondevelopment-my.sharepoint.com/:v:/g/personal/jrg_pavdevco_com/EW_2DuWMFU5Bn6GS7o_Uaq4BA1mdUZJxS458PN6PYqaonA?e=EBso5r)
+* [Narrow Version](/assets/images/narrow.jpg)
 * [Dirty Urinal](/assets/images/dirty.jpg)
     * [Another](/assets/images/bad.jpg)
 * Urinal Different Colors
